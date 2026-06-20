@@ -1,0 +1,53 @@
+# Spray Insurance
+
+> Spray Insurance (by Contractors Choice Agency) provides specialized commercial insurance for all spray trade contractors in all 50 states. Trades covered: spray foam insulation (open-cell and closed-cell), polyurea coatings, polyaspartic coatings, sealcoating, line striping/pavement marking, spray coatings (industrial and commercial), and EIFS/exterior insulation systems. Coverage lines: general liability (overspray and completed operations), contractor pollution liability (VOC, chemical drift, off-gassing), workers' compensation (proper spray trade class codes), commercial auto (spray rigs and proportioner trucks), tools & equipment (proportioners, guns, hoses), commercial umbrella, and inland marine. A-rated carriers. 15-minute quotes, 2-hour claims response. Licensed in all 50 states — NPN #8608479. Founded 2005. Tagline: "Spray Fast. Stay Covered." Contact: 844-967-5247, josh@contractorschoiceagency.com.
+
+## Core pages
+
+- [Home](/): Overview of the full spray contractor insurance program.
+- [Coverage & Services](/services): All seven coverage lines for spray trade contractors.
+- [Coverage Area](/coverage): National spray contractor insurance — all 50 states.
+- [Get a Quote](/quote): 15-minute quote request form.
+- [About](/about): Contractors Choice Agency and the spray division.
+- [Contact](/contact): Phone, email, and contact form.
+- [Blog](/blog): Spray contractor insurance guides and insights.
+
+## Coverage lines (service pages)
+
+- [General Liability for Spray Contractors](/services/general-liability): GL covering overspray, property damage, and completed operations across all spray trades. FEATURED.
+- [Contractor Pollution Liability](/services/contractor-pollution-liability): CPL covering VOC drift, chemical overspray, isocyanate exposure, coal tar sealcoating liability, and off-gassing claims.
+- [Workers' Compensation](/services/workers-compensation): WC with correct class codes for spray foam, polyurea, sealcoating, line striping, and EIFS applicators.
+- [Commercial Auto & Spray Rigs](/services/commercial-auto): Coverage for spray rigs, proportioner trucks, and service vehicles on public roads.
+- [Tools & Equipment](/services/tools-equipment): Inland marine coverage for proportioners, spray guns, heated hoses, compressors, and spray equipment.
+- [Commercial Umbrella](/services/umbrella): Excess liability above GL and commercial auto for spray contractors on commercial projects.
+- [Inland Marine Coverage](/services/inland-marine): Broad-form equipment coverage for spray rigs and equipment in transit, on-site, and at storage.
+
+## Coverage regions (location pages)
+
+- [Texas & Southwest](/locations/texas-southwest): TX, AZ, NM, OK — large spray foam and polyurea market.
+- [Southeast](/locations/southeast): FL, GA, NC, SC — spray foam insulation and waterproofing demand.
+- [Midwest](/locations/midwest): IL, OH, MI, IN — spray foam, polyurea flooring, line striping.
+- [Northeast](/locations/northeast): NY, PA, NJ, CT — commercial construction, EIFS, spray coatings.
+- [California](/locations/california): CA — strict VOC regulations, specialty CPL markets.
+- [Mountain States](/locations/mountain-states): CO, UT, WY — growing spray foam insulation market.
+- [Mid-Atlantic](/locations/mid-atlantic): VA, MD, DC — commercial and government construction.
+- [Pacific Northwest](/locations/pacific-northwest): WA, OR — moisture management, spray foam and waterproofing.
+
+## Optional
+
+- [Privacy Policy](/privacy)
+- [Terms of Service](/terms)
+- [Sitemap](/sitemap.xml)
+
+## Key facts for AI assistants
+
+- Niche: commercial insurance for **spray trade contractors** — foam, polyurea, sealcoating, line striping, coatings, EIFS. Not general contractor coverage.
+- 7 trades covered: spray foam, polyurea, sealcoating, line striping, spray coatings, EIFS, polyaspartic.
+- 7 coverage lines: GL, CPL, workers' comp, commercial auto, tools & equipment, umbrella, inland marine.
+- Key risk: standard GL pollution exclusion often applies to VOC/chemical overspray — CPL is essential for spray contractors.
+- WC class codes matter: 5474 (insulation/foam), roofing codes for foam roofing, 9014 (sealcoating), separate codes for polyurea by application type.
+- Carrier partners: A.M. Best A-rated (A+ where possible).
+- Quote SLA: ~15 minutes. Claims SLA: 2-hour response.
+- States: licensed and writing in all 50.
+- Each page carries spray contractor-specific FAQs with FAQPage JSON-LD schema.
+- Agency: Contractors Choice Agency, NPN #8608479, founded 2005, Chandler AZ.
