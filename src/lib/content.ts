@@ -51,11 +51,6 @@ export const COPY = {
   process: {
     lead: "No two-week back-and-forth. A real conversation, real markets, and a program you can understand — built around your specific spray trades and exposure.",
   },
-  testimonials: {
-    eyebrow: "From spray contractors",
-    h2Lead: "Spray contractors who found",
-    h2Highlight: "coverage that actually pays",
-  },
   finalCta: {
     h2Lead: "Protect Your Spray Operation",
     h2Highlight: "with coverage built for the trade.",

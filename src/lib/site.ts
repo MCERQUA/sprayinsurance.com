@@ -17,7 +17,7 @@ export const SITE = {
   founded: 2005,
   npn: "8608479",
   address: {
-    street: "12220 E Riggs Road, Suite #105",
+    street: "12220 E Riggs Rd, Suite #104",
     city: "Chandler",
     state: "AZ",
     zip: "85249",
@@ -154,10 +154,4 @@ export const STATS = [
   { value: 7, suffix: "", label: "Spray trades covered", prefix: "" },
   { value: 15, suffix: " min", label: "Average quote turnaround", prefix: "" },
   { value: 50, suffix: "", label: "States licensed & writing", prefix: "" },
-] as const;
-
-export const TESTIMONIALS = [
-  { quote: "We do spray foam insulation on commercial buildings and had two carriers decline us over overspray exclusions. Spray Insurance found an A-rated market that understood our operation and covered completed operations correctly. First real quote we'd gotten in years.", name: "Marcus T.", role: "Owner", location: "Texas" },
-  { quote: "Our polyurea crew had a job where overspray drifted onto a customer's vehicles. We thought we were covered — our old policy excluded it as a pollution event. Spray Insurance set us up with CPL that actually pays for these situations.", name: "Dana R.", role: "Operations Manager", location: "Florida" },
-  { quote: "Sealcoating and line striping sounds simple but try finding a carrier that understands coal tar liability and gets our WC class codes right. These folks knew exactly what we needed and placed it fast.", name: "Kevin S.", role: "Co-owner", location: "Illinois" },
 ] as const;
