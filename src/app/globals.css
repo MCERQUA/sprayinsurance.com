@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600&family=Public+Sans:wght@400;700;900&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -28,9 +26,6 @@
     --adobe: #333333;
     --adobeDark: #1a1a1a;
     --radius: 4px;
-    --font-headline: 'Bebas Neue', Impact, sans-serif;
-    --font-body: 'Inter', system-ui, sans-serif;
-    --font-label: 'Public Sans', system-ui, sans-serif;
   }
 
   * { border-color: var(--adobe); }

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { headingFont, bodyFont } from "@/lib/fonts";
+import { headlineFont, bodyFont, labelFont } from "@/lib/fonts";
 import { SmoothScroll } from "@/components/animations/SmoothScroll";
 import { SITE } from "@/lib/site";
 import "./globals.css";
@@ -83,7 +83,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   };
 
   return (
-    <html lang="en" className={`${headingFont.variable} ${bodyFont.variable}`}>
+    <html lang="en" className={`${headlineFont.variable} ${bodyFont.variable} ${labelFont.variable}`}>
       <head>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
       </head>

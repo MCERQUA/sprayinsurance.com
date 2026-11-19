@@ -61,10 +61,10 @@ const config: Config = {
         adobeDark: "#1a1a1a",
       },
       fontFamily: {
-        headline: ["'Bebas Neue'", 'Impact', 'sans-serif'],
-        body: ["'Inter'", 'system-ui', 'sans-serif'],
-        label: ["'Public Sans'", 'system-ui', 'sans-serif'],
-        heading: ["'Bebas Neue'", 'Impact', 'sans-serif'],
+        headline: ['var(--font-headline)', 'Impact', 'sans-serif'],
+        body: ['var(--font-body)', 'system-ui', 'sans-serif'],
+        label: ['var(--font-label)', 'system-ui', 'sans-serif'],
+        heading: ['var(--font-headline)', 'Impact', 'sans-serif'],
       },
       borderRadius: {
         arch: "4px",
