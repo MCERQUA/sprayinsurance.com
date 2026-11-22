@@ -21,7 +21,7 @@ const trustItems = [
 export default function QuotePage() {
   const [formData, setFormData] = useState({
     name: "", businessName: "", email: "", phone: "", state: "", serviceType: "", yearsInBusiness: "", message: "", "bot-field": "",
-    streetAddress: "", city: "", zip: "", fein: "", yearBusinessStarted: "", priorCarrierName: "", priorPolicyNumber: "", priorPolicyExpiration: "", businessDescription: "",
+    streetAddress: "", city: "", zip: "", fein: "", yearBusinessStarted: "", priorCarrierName: "", priorPolicyExpiration: "", businessDescription: "",
   });
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
@@ -162,7 +162,6 @@ export default function QuotePage() {
                       </div>
 
                       <div className="grid sm:grid-cols-2 gap-4">
-                        <div><label htmlFor="priorPolicyNumber" className={labelClass}>Current or prior policy number *</label><input id="priorPolicyNumber" name="priorPolicyNumber" type="text" required value={formData.priorPolicyNumber} onChange={handleChange} placeholder="Policy number" className={inputClass} /></div>
                         <div><label htmlFor="priorPolicyExpiration" className={labelClass}>Policy expiration date *</label><input id="priorPolicyExpiration" name="priorPolicyExpiration" type="date" required value={formData.priorPolicyExpiration} onChange={handleChange} className={inputClass} /></div>
                       </div>
 
